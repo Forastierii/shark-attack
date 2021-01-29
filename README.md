@@ -1,5 +1,4 @@
-# shark-attack
-shark-attack
+# shark-attack: Jaws Adventures
 
 Our company, "Jaws Adventures", offers scuba diving for people.
 We would like to analyse and market a new product: shark feeding.
